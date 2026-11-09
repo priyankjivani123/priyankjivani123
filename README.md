@@ -116,8 +116,8 @@ bin/magento cache:flush
 ## 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankjivani123&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Priyank's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankjivani123&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=priyankjivani123&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Priyank's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=priyankjivani123&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
